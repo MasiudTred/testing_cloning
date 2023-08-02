@@ -1,0 +1,15 @@
+{
+	"Abohar": {
+        "name": "AB FOODS POINT",
+        "menu": {
+            "Burger": {
+                "Aloo Tikki Burger": {
+                    "price": "40",
+                    "veg_or_non_veg": "Veg"
+                },
+                "Veg Creamy Burger": {
+                    "price": "50",
+                    "veg_or_non_veg": "Veg"
+                }
+          }
+}

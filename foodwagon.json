@@ -1,0 +1,322 @@
+{
+    "Mumbai": {
+        "Tasty Treats": {
+            "name": "Tasty Treats",
+            "rating": "4.5",
+            "address": "123 Main Street, Mumbai",
+            "menu": {
+                "Starters": {
+                    "Veg Pakora": {
+                        "price": 150,
+                        "category": "Veg",
+                        "rating": 4.2
+                    },
+                    "Chicken Tikka": {
+                        "price": 250,
+                        "category": "Non-Veg",
+                        "rating": 4.8
+                    }
+                },
+                "Main Course": {
+                    "Veg Biryani": {
+                        "price": 300,
+                        "category": "Veg",
+                        "rating": 4.5
+                    },
+                    "Butter Chicken": {
+                        "price": 400,
+                        "category": "Non-Veg",
+                        "rating": 4.6
+                    }
+                }
+            }
+        },
+        "Spice Delight": {
+            "name": "Spice Delight",
+            "rating": "4.2",
+            "address": "456 Oak Avenue, Mumbai",
+            "menu": {
+                "Starters": {
+                    "Paneer Tikka": {
+                        "price": 180,
+                        "category": "Veg",
+                        "rating": 4.3
+                    },
+                    "Fish Fry": {
+                        "price": 280,
+                        "category": "Non-Veg",
+                        "rating": 4.5
+                    }
+                },
+                "Main Course": {
+                    "Veg Pulao": {
+                        "price": 280,
+                        "category": "Veg",
+                        "rating": 4.0
+                    },
+                    "Mutton Biryani": {
+                        "price": 450,
+                        "category": "Non-Veg",
+                        "rating": 4.7
+                    }
+                }
+            }
+        }
+    },
+    "Bangalore": {
+        "Delicious Bites": {
+            "name": "Delicious Bites",
+            "rating": "4.7",
+            "address": "789 Maple Lane, Bangalore",
+            "menu": {
+                "Starters": {
+                    "Gobi Manchurian": {
+                        "price": 160,
+                        "category": "Veg",
+                        "rating": 4.6
+                    },
+                    "Chicken 65": {
+                        "price": 260,
+                        "category": "Non-Veg",
+                        "rating": 4.9
+                    }
+                },
+                "Main Course": {
+                    "Veg Pulav": {
+                        "price": 290,
+                        "category": "Veg",
+                        "rating": 4.4
+                    },
+                    "Chicken Biryani": {
+                        "price": 480,
+                        "category": "Non-Veg",
+                        "rating": 4.8
+                    }
+                }
+            }
+        },
+        "Sizzler House": {
+            "name": "Sizzler House",
+            "rating": "4.4",
+            "address": "987 Oak Street, Bangalore",
+            "menu": {
+                "Starters": {
+                    "Veg Spring Rolls": {
+                        "price": 140,
+                        "category": "Veg",
+                        "rating": 4.1
+                    },
+                    "Fish Tikka": {
+                        "price": 290,
+                        "category": "Non-Veg",
+                        "rating": 4.6
+                    }
+                },
+                "Main Course": {
+                    "Veg Sizzler": {
+                        "price": 320,
+                        "category": "Veg",
+                        "rating": 4.3
+                    },
+                    "Chicken Sizzler": {
+                        "price": 520,
+                        "category": "Non-Veg",
+                        "rating": 4.7
+                    }
+                }
+            }
+        }
+    },
+    "Delhi": {
+        "Royal Dine": {
+            "name": "Royal Dine",
+            "rating": "4.3",
+            "address": "543 Rose Street, Delhi",
+            "menu": {
+                "Starters": {
+                    "Chilli Paneer": {
+                        "price": 180,
+                        "category": "Veg",
+                        "rating": 4.2
+                    },
+                    "Murg Malai Tikka": {
+                        "price": 280,
+                        "category": "Non-Veg",
+                        "rating": 4.7
+                    }
+                },
+                "Main Course": {
+                    "Veg Kadhai": {
+                        "price": 270,
+                        "category": "Veg",
+                        "rating": 4.5
+                    },
+                    "Butter Naan": {
+                        "price": 40,
+                        "category": "Veg",
+                        "rating": 4.3
+                    }
+                }
+            }
+        },
+        "The Biryani House": {
+            "name": "The Biryani House",
+            "rating": "4.6",
+            "address": "321 Lily Lane, Delhi",
+            "menu": {
+                "Starters": {
+                    "Fish Amritsari": {
+                        "price": 260,
+                        "category": "Non-Veg",
+                        "rating": 4.4
+                    },
+                    "Chicken Seekh Kebab": {
+                        "price": 280,
+                        "category": "Non-Veg",
+                        "rating": 4.5
+                    }
+                },
+                "Main Course": {
+                    "Chicken Biryani": {
+                        "price": 380,
+                        "category": "Non-Veg",
+                        "rating": 4.8
+                    },
+                    "Mutton Biryani": {
+                        "price": 420,
+                        "category": "Non-Veg",
+                        "rating": 4.7
+                    }
+                }
+            }
+        }
+    },
+    "Chennai": {
+        "South Spice": {
+            "name": "South Spice",
+            "rating": "4.8",
+            "address": "345 Palm Street, Chennai",
+            "menu": {
+                "Starters": {
+                    "Medu Vada": {
+                        "price": 80,
+                        "category": "Veg",
+                        "rating": 4.6
+                    },
+                    "Chilli Chicken": {
+                        "price": 240,
+                        "category": "Non-Veg",
+                        "rating": 4.9
+                    }
+                },
+                "Main Course": {
+                    "Masala Dosa": {
+                        "price": 160,
+                        "category": "Veg",
+                        "rating": 4.8
+                    },
+                    "Chicken Chettinad": {
+                        "price": 350,
+                        "category": "Non-Veg",
+                        "rating": 4.7
+                    }
+                }
+            }
+        },
+        "Coastal Delights": {
+            "name": "Coastal Delights",
+            "rating": "4.4",
+            "address": "876 Coral Road, Chennai",
+            "menu": {
+                "Starters": {
+                    "Fish Fry": {
+                        "price": 220,
+                        "category": "Non-Veg",
+                        "rating": 4.2
+                    },
+                    "Prawn Masala": {
+                        "price": 320,
+                        "category": "Non-Veg",
+                        "rating": 4.6
+                    }
+                },
+                "Main Course": {
+                    "Fish Curry": {
+                        "price": 340,
+                        "category": "Non-Veg",
+                        "rating": 4.5
+                    },
+                    "Crab Masala": {
+                        "price": 420,
+                        "category": "Non-Veg",
+                        "rating": 4.4
+                    }
+                }
+            }
+        }
+    },
+    "Kolkata": {
+        "The Spicy Corner": {
+            "name": "The Spicy Corner",
+            "rating": "4.2",
+            "address": "567 Ruby Lane, Kolkata",
+            "menu": {
+                "Starters": {
+                    "Dahi Puri": {
+                        "price": 120,
+                        "category": "Veg",
+                        "rating": 4.0
+                    },
+                    "Mutton Roll": {
+                        "price": 180,
+                        "category": "Non-Veg",
+                        "rating": 4.3
+                    }
+                },
+                "Main Course": {
+                    "Chicken Biryani": {
+                        "price": 300,
+                        "category": "Non-Veg",
+                        "rating": 4.2
+                    },
+                    "Veg Pulao": {
+                        "price": 200,
+                        "category": "Veg",
+                        "rating": 4.4
+                    }
+                }
+            }
+        },
+        "Royal Sweets": {
+            "name": "Royal Sweets",
+            "rating": "4.7",
+            "address": "432 Sapphire Street, Kolkata",
+            "menu": {
+                "Starters": {
+                    "Samosa": {
+                        "price": 80,
+                        "category": "Veg",
+                        "rating": 4.5
+                    },
+                    "Chicken Cutlet": {
+                        "price": 150,
+                        "category": "Non-Veg",
+                        "rating": 4.8
+                    }
+                },
+                "Main Course": {
+                    "Bengali Thali": {
+                        "price": 280,
+                        "category": "Veg",
+                        "rating": 4.6
+                    },
+                    "Fish Curry": {
+                        "price": 340,
+                        "category": "Non-Veg",
+                        "rating": 4.7
+                    }
+                }
+            }
+        }
+    }
+}
